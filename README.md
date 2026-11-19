@@ -1,10 +1,10 @@
 # AimTrainerBuild
 
 ## Keybinds:
-Tab/Escape: Pause
-Escape: Back
-M: Map
-I: Inventory
+- Tab/Escape: Pause
+- Escape: Back
+- M: Map
+- I: Inventory
 
 There are many different types of enemies you may encounter:
 ## Enemy Mods (Currently the visual indication of these may be tough to identify):
