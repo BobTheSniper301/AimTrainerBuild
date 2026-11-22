@@ -24,6 +24,7 @@ You can locate shops and buy different attachment to buff you. (As of Alpha 1.0 
 
 (Rough order of priority)
 ## Roadmap:
+- Winning + Endless
 - Game Balance (Shop, enemies, time, map generation)
 - Visual transitions
 - Events (In progress)
@@ -33,4 +34,6 @@ You can locate shops and buy different attachment to buff you. (As of Alpha 1.0 
 - Enemy Visuals
 - Increased game feedback to player
 - More info given to player
+- Endless Mode (V.2)
+
 
